@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Otus.Patterns.Vasileva
+﻿namespace Otus.Patterns.Vasileva
 {
     // Класс Freeride, наследует от Alpine
     public class Freeride : Alpine
